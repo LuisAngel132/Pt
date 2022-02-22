@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>https://phara.shop/</loc>
+</url>
+<url>
+  <loc>https://phara.shop/login</loc>
+</url>
+<url>
+  <loc>https://phara.shop/register</loc>
+</url>
+<url>
+  <loc>https://phara.shop/category</loc>
+</url>
+<url>
+  <loc>https://phara.shop/design</loc>
+</url>
+<url>
+  <loc>https://phara.shop/about</loc>
+</url>
+<url>
+  <loc>https://phara.shop/contact</loc>
+</url>
+<url>
+  <loc>https://phara.shop/cart</loc>
+</url>
+<url>
+  <loc>https://phara.shop/faqs</loc>
+</url>
+<url>
+  <loc>https://phara.shop/password/reset</loc>
+</url>
+</urlset>
